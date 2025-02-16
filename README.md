@@ -36,25 +36,20 @@ stateDiagram-v2
 pie
     title Tech Stack Expertise
     "Django & FastAPI": 30
-    "Solana API": 15
-    "Google Pay & PayPal": 20
-    "Docker & DevOps": 15
-    "AI/NLP": 10
-    "Firmware & OS": 10
+    "AI/NLP": 25
+    "Docker & DevOps": 20
+    "Google Pay & PayPal": 15
+    "Blockchain": 10
 ```
 
 ## 🚀 Current Interests & Projects
 
 - Building **scalable** and **secure** backend systems 🏗️
-- Exploring **blockchain** integrations with Solana 🔗
+- Developing **AI/NLP solutions** for commercial production projects 🤖  🔗
 - Automating **payment workflows** with Stripe, PayPal, and Google Pay 💳
-- Tinkering with **AI/NLP** for personal projects 🧠
-- Flashing firmware and installing OS on **random devices** ⚙️
+- Exploring **blockchain** for personal projects 🧠
 
 ## 📫 Let's Connect!
-
-- 🐦 [Twitter](https://twitter.com/yourhandle)
-- 💼 [LinkedIn](https://linkedin.com/in/yourhandle)
-- 🌐 [Personal Website](https://yourwebsite.com)
+- 💼 [LinkedIn](https://www.linkedin.com/in/aleksander-bagdasarov/)
 
 > "If it works, don’t touch it. If it doesn’t work, blame cache." 🤷‍♂️
