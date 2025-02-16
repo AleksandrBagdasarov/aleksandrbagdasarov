@@ -9,22 +9,25 @@ When I’m not battling production bugs 🐞 or optimizing SQL queries ⚡, you 
 Oh, and if you ever need help processing Google Pay tokens in Stripe or designing subscription models with PayPal – I'm your guy. 
 
 ## 🔥 My Tech Stack & Skills
-
 ```mermaid
-graph TD;
-  Backend-->Django;
-  Backend-->FastAPI;
-  Backend-->SolanaAPI;
-  Backend-->Stripe;
-  Backend-->GooglePay;
-  Backend-->PayPal;
-  DevOps-->Linux;
-  DevOps-->Docker;
-  DevOps-->CI/CD;
-  DataScience-->NLP;
-  DataScience-->AI;
-  Other-->FirmwareFlashing;
-  Other-->OSInstallation;
+stateDiagram-v2
+    [*] --> Backend
+    Backend --> Django
+    Backend --> FastAPI
+    Backend --> Solana API
+    Backend --> Stripe
+    Backend --> Google Pay
+    Backend --> PayPal
+    [*] --> DevOps
+    DevOps --> Linux
+    DevOps --> Docker
+    DevOps --> CI/CD
+    [*] --> Data Science
+    Data Science --> NLP
+    Data Science --> AI
+    [*] --> Other
+    Other --> Firmware Flashing
+    Other --> OS Installation
 ```
 
 ## 📊 Tech Proficiency
