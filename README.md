@@ -33,6 +33,7 @@ stateDiagram-v2
 ## 📊 Tech Proficiency
 
 ```mermaid
+%%{init: {'theme': 'base', 'themeVariables': { 'pie1': '#ffbe0b', 'pie2': '#fb5607', 'pie3': '#ff006e', 'pie4': '#8338ec', 'pie5': '#3a86ff'}}}%%
 pie
     title Tech Stack Expertise
     "Django & FastAPI": 30
@@ -40,11 +41,6 @@ pie
     "Docker & DevOps": 20
     "Google Pay & PayPal": 15
     "Blockchain": 10
-    style 0 fill:#ffbe0b
-    style 1 fill:#fb5607
-    style 2 fill:#ff006e
-    style 3 fill:#8338ec
-    style 4 fill:#3a86ff
 ```
 
 ## 🚀 Current Interests & Projects
